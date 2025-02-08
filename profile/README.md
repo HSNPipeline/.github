@@ -8,6 +8,8 @@ and/or check out the
 [organization website](https://HSUPipeline.github.io).
 
 This project is being developed in the 
-[Jacobs Lab](http://orion.bme.columbia.edu/jacobs/),
+[Jacobs Lab](https://jacobslab.bme.columbia.edu/),
 and is primarily maintained by 
 [Tom Donoghue](https://github.com/TomDonoghue/).
+
+
