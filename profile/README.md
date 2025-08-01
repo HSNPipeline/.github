@@ -1,6 +1,6 @@
-# Human Single Unit Pipeline
+# Human Single Neuron Pipeline
 
-This organization hosts a pipeline working with single-unit data collected from human patients.
+This organization hosts a pipeline working with single-neuron data collected from human patients.
 
 For an overview and description of the pipeline, see the 
 [overview repository](https://github.com/HSUPipeline/Overview)
@@ -11,5 +11,3 @@ This project is being developed in the
 [Jacobs Lab](https://jacobslab.bme.columbia.edu/),
 and is primarily maintained by 
 [Tom Donoghue](https://github.com/TomDonoghue/).
-
-
