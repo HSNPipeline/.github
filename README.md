@@ -1,3 +1,3 @@
 # .github
 
-Organization level .github folder for  `HSUPipeline`.
+Organization level .github folder for  `HSNPipeline`.
