@@ -3,11 +3,9 @@
 This organization hosts a pipeline working with single-neuron data collected from human patients.
 
 For an overview and description of the pipeline, see the 
-[overview repository](https://github.com/HSUPipeline/Overview)
+[overview repository](https://github.com/HSNPipeline/Overview)
 and/or check out the
-[organization website](https://HSUPipeline.github.io).
+[organization website](https://HSNPipeline.github.io).
 
-This project is being developed in the 
-[Jacobs Lab](https://jacobslab.bme.columbia.edu/),
-and is primarily maintained by 
+This project is primarily maintained by
 [Tom Donoghue](https://github.com/TomDonoghue/).
